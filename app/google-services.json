@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "913884186380",
+    "firebase_url": "https://free-c8423.firebaseio.com",
+    "project_id": "free-c8423",
+    "storage_bucket": "free-c8423.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913884186380:android:6e4f12d2b03aa4bf16eb29",
+        "android_client_info": {
+          "package_name": "com.example.treeee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913884186380-5okqh9h7im51atfckd46pq649trv7la8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0cJ_4nxK5aeTbja59qESmZn5yKyIVZPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913884186380-5okqh9h7im51atfckd46pq649trv7la8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
