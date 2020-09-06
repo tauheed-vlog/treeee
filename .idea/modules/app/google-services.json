@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "947118252853",
+    "firebase_url": "https://treeee-c08a4.firebaseio.com",
+    "project_id": "treeee-c08a4",
+    "storage_bucket": "treeee-c08a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947118252853:android:6e72b2cba414cec41f227c",
+        "android_client_info": {
+          "package_name": "com.example.treeee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947118252853-edvudni01tb27sb8e41g6tdlg4mqu3lf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.treeee",
+            "certificate_hash": "58c86f24090bc07a7679f5ac7bea39dde5984aad"
+          }
+        },
+        {
+          "client_id": "947118252853-gkukru9tspketk6ihts886ugk8eovi7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTqoqq3X6e_5g6GzLGcjFJV3YGHH6gk_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947118252853-gkukru9tspketk6ihts886ugk8eovi7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
